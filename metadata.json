@@ -1,5 +1,0 @@
-{
-  "name": "Image Converter",
-  "description": "A minimalist, high-performance image converter. Batch convert images to PNG, JPG, JPEG, or WEBP and download them as a ZIP archive.",
-  "requestFramePermissions": []
-}
